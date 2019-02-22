@@ -1,4 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://dev.azure.com/amitracks/PipelineTutorial/_apis/build/status/PipelineTutorial-CI?branchName=master)](https://dev.azure.com/amitracks/PipelineTutorial/_build/latest?definitionId=10&branchName=master)
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
